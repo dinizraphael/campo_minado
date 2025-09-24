@@ -4,7 +4,7 @@ const questions = [
         options: [
             {
                 text: "Triceratops",
-                image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Froyal-present.com%2FTriceratops-dinosaur-Machine-Embroidery-Design-5-sizes-p474341420%2F%3Fsrsltid%3DAfmBOoqqI6uzf0Ce88YXAyQMvCnr1LV9Ec9E6rJs2Oqpm32G8gDwyAvA&psig=AOvVaw1Uu4bCGXGM50xNS27CN9KU&ust=1758825006504000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKi5p--D8o8DFQAAAAAdAAAAABAr",
+                image: "",
                 correct: true
             },
             {
