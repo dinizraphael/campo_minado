@@ -4,7 +4,7 @@ const questions = [
         options: [
             {
                 text: "Triceratops",
-                image: "",
+                image: "https://images.fineartamerica.com/images-medium-large-5/1-triceratops-horridus-dinosaur-julius-t-csotonyiscience-photo-library.jpg",
                 correct: true
             },
             {
