@@ -4,7 +4,7 @@ const questions = [
         options: [
             {
                 text: "Triceratops",
-                image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.infoescola.com%2Fdinossauros%2Ftriceratops%2F&psig=AOvVaw0oeGCs3GRJhhhMisO4EgE9&ust=1758824566303000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCXwqOC8o8DFQAAAAAdAAAAABAg",
+                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Triceratops%20dinosaur%20with%20three%20horns%20and%20large%20frill&id=1",
                 correct: true
             },
             {
