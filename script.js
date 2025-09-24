@@ -4,7 +4,7 @@ const questions = [
         options: [
             {
                 text: "Triceratops",
-                image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.infoescola.com%2Fdinossauros%2Ftriceratops%2F&psig=AOvVaw0oeGCs3GRJhhhMisO4EgE9&ust=1758824566303000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCXwqOC8o8DFQAAAAAdAAAAABAg",
+                image: "https://www.infoescola.com/wp-content/uploads/2010/07/triceratop_552982969.jpg",
                 correct: true
             },
             {
