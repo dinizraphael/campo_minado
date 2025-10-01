@@ -9,12 +9,12 @@ const questions = [
             },
             {
                 text: "Tiranossauro Rex",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Tyrannosaurus%20Rex%20with%20large%20head%20and%20small%20arms&id=2",
+                image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Faventurasnahistoria.com.br%2Fnoticias%2Fhistoria-hoje%2Ffossil-que-se-pensava-ser-de-t-rex-revela-nova-especie-de-tiranossauro.phtml&psig=AOvVaw038tQvzwpGDegXFmPmS3NJ&ust=1759428474418000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDK0YfMg5ADFQAAAAAdAAAAABAE",
                 correct: false
             },
             {
                 text: "Velociraptor",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Velociraptor%20with%20feathers%20and%20sickle%20claw&id=3",
+                image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fscience%2Farticle%2Fvelociraptor&psig=AOvVaw1_HzmkYYGlS6LggUQiAkHt&ust=1759428584742000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiI5rfMg5ADFQAAAAAdAAAAABAE",
                 correct: false
             },
             {
