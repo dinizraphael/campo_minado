@@ -19,7 +19,7 @@ const questions = [
             },
             {
                 text: "Estegossauro",
-                image: "https://static.wikia.nocookie.net/dinossauria/images/4/40/Estego.jpg/revision/latest/scale-to-width-down/258?cb=20201123163301&path-prefix=pt-br",
+                image: "https://static.wikia.nocookie.net/jurassicworld-evolution/images/7/7d/StegoNull.png/revision/latest?cb=20200504124159",
                 correct: false
             }
         ]
