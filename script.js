@@ -19,7 +19,7 @@ const questions = [
             },
             {
                 text: "Estegossauro",
-                image: "https://static.wikia.nocookie.net/jurassicworld-evolution/images/7/7d/StegoNull.png/revision/latest?cb=20200504124159",
+                image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOFkc5Fp7wqxAriKYM1Ke6y-nWLti-8qC8K65d665vhmbWMcThlnC9E1R6iKtCmKcoHfUxY8Z1-i04TzypFtXgnik_9-9EbrSPDD8jZ6jln6orK0ZU2Gf_7UyDABXuxJSQcoACigfyQsE/s1600/Stegosaurus+Armatus+by+Camus+Altamirano.png",
                 correct: false
             }
         ]
@@ -34,17 +34,17 @@ const questions = [
             },
             {
                 text: "Espinossauro",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Spinosaurus%20with%20sail%20on%20back%20and%20crocodile-like%20snout&id=6",
+                image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Spinosaurus_aegyptiacus.png",
                 correct: true
             },
             {
                 text: "Triceratops",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Triceratops%20with%20three%20horns%20and%20frill&id=7",
+                image: "https://images.fineartamerica.com/images-medium-large-5/1-triceratops-horridus-dinosaur-julius-t-csotonyiscience-photo-library.jpg",
                 correct: false
             },
             {
                 text: "Anquilossauro",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Ankylosaurus%20with%20armored%20body%20and%20club%20tail&id=8",
+                image: "https://www.atlasvirtual.com.br/jpg/anquilossauro2.jpg",
                 correct: false
             }
         ]
@@ -54,22 +54,22 @@ const questions = [
         options: [
             {
                 text: "Tiranossauro Rex",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Tyrannosaurus%20Rex%20standing%20upright&id=9",
+                image: "https://i.pinimg.com/736x/9b/2d/21/9b2d216e90331393f5cb999b5860910f.jpg",
                 correct: false
             },
             {
                 text: "Velociraptor",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Velociraptor%20in%20hunting%20pose&id=10",
+                image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Velociraptor_Restoration.png",
                 correct: false
             },
             {
                 text: "Estegossauro",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Stegosaurus%20with%20bony%20plates%20along%20back&id=11",
+                image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOFkc5Fp7wqxAriKYM1Ke6y-nWLti-8qC8K65d665vhmbWMcThlnC9E1R6iKtCmKcoHfUxY8Z1-i04TzypFtXgnik_9-9EbrSPDD8jZ6jln6orK0ZU2Gf_7UyDABXuxJSQcoACigfyQsE/s1600/Stegosaurus+Armatus+by+Camus+Altamirano.png",
                 correct: true
             },
             {
                 text: "Pterodáctilo",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Pterodactyl%20flying%20reptile%20with%20wings&id=12",
+                image: "https://www.infoescola.com/wp-content/uploads/2010/07/pterod%C3%A1ctilo_188956646.jpg",
                 correct: false
             }
         ]
@@ -89,12 +89,12 @@ const questions = [
             },
             {
                 text: "Alossauro",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Allosaurus%20medium-sized%20predator&id=15",
+                image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOFkc5Fp7wqxAriKYM1Ke6y-nWLti-8qC8K65d665vhmbWMcThlnC9E1R6iKtCmKcoHfUxY8Z1-i04TzypFtXgnik_9-9EbrSPDD8jZ6jln6orK0ZU2Gf_7UyDABXuxJSQcoACigfyQsE/s1600/Stegosaurus+Armatus+by+Camus+Altamirano.png",
                 correct: false
             },
             {
                 text: "Carnotauro",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Carnotaurus%20with%20horns%20and%20small%20arms&id=16",
+                image: "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Carnotaurus_Reconstruction_%282022%29.png/250px-Carnotaurus_Reconstruction_%282022%29.png",
                 correct: false
             }
         ]
