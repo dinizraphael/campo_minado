@@ -9,17 +9,17 @@ const questions = [
             },
             {
                 text: "Tiranossauro Rex",
-                image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Faventurasnahistoria.com.br%2Fnoticias%2Fhistoria-hoje%2Ffossil-que-se-pensava-ser-de-t-rex-revela-nova-especie-de-tiranossauro.phtml&psig=AOvVaw038tQvzwpGDegXFmPmS3NJ&ust=1759428474418000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDK0YfMg5ADFQAAAAAdAAAAABAE",
+                image: "https://i.pinimg.com/736x/9b/2d/21/9b2d216e90331393f5cb999b5860910f.jpg",
                 correct: false
             },
             {
                 text: "Velociraptor",
-                image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fscience%2Farticle%2Fvelociraptor&psig=AOvVaw1_HzmkYYGlS6LggUQiAkHt&ust=1759428584742000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiI5rfMg5ADFQAAAAAdAAAAABAE",
+                image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Velociraptor_Restoration.png",
                 correct: false
             },
             {
                 text: "Estegossauro",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Stegosaurus%20with%20plates%20on%20back%20and%20spiked%20tail&id=4",
+                image: "https://static.wikia.nocookie.net/dinossauria/images/4/40/Estego.jpg/revision/latest/scale-to-width-down/258?cb=20201123163301&path-prefix=pt-br",
                 correct: false
             }
         ]
