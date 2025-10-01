@@ -29,7 +29,7 @@ const questions = [
         options: [
             {
                 text: "Brontossauro",
-                image: "https://placeholder-image-service.onrender.com/image/200x120?prompt=Brontosaurus%20with%20long%20neck%20and%20tail&id=5",
+                image: "https://s2.glbimg.com/gfwsAuvW8mmYOSvKTAuZkQj4qzY=/s.glbimg.com/jo/g1/f/original/2015/04/07/brontosaur.jpg",
                 correct: false
             },
             {
